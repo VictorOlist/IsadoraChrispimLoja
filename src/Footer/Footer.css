@@ -1,0 +1,21 @@
+.Manipulate{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    background-color: #2c0b15;
+    
+}
+
+.teste{
+    margin-left: 900px;
+    color: white;
+    align-items: center;
+    justify-items: center;
+}
+
+.LogoMlp{
+    column-gap: 15px;
+    width: 30px;
+    height: 30px;
+    
+}

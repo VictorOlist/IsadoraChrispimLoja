@@ -1,0 +1,32 @@
+.Presentation{
+    display: grid;
+    grid-template-columns: repeat(2, 500px);
+    grid-template-rows: 400px;
+    gap: 800px;
+    background-color: #f1edee;
+    width: 100%;
+    height: 450px;
+    align-items: center;
+
+}
+
+.ContainerElements{
+    margin-top: 10px;
+    grid-column: 1;
+    grid-row: 1;
+    margin-left: 150px;
+    font-size: 25px;
+    color: lightpink;
+    text-align: justify;
+    
+}
+
+.StLogo{
+    display: flex;
+    margin-top: 80px;
+    grid-column: 2;
+    grid-row: 1;
+    width: 100%;
+    height: 350px;
+    
+}

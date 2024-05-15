@@ -1,0 +1,34 @@
+.ContainerFts{
+    display: flex;
+    padding: 6% 8%;
+    grid-template-columns: repeat(auto-fill, 200px);
+    grid-template-rows: 200px 200px;
+    background-color: #ffc0d4;
+}
+
+.Formatation1{
+    margin-top: 5px;
+    justify-content: space-between;
+    color:white;
+    font-size: 30px;
+}
+.Formatation2{
+
+    margin-top: 5px;
+    display: flex;
+    column-gap: 20px;
+    justify-content: space-between;
+    margin-left: 800px;
+    color:white;
+    font-size: 25px;
+}
+
+.Icon1{
+    display: flex;
+    font-size: 40px;
+}
+
+.Icon2{
+    display: flex;
+    font-size: 40px;
+}
